@@ -3,6 +3,16 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8l5Se7N7K_Dnq1nzKjj79ZwyOP9nzw9a2V9ePHyYOrLTYChZ2CwV7ucj-W8ZCC-ElZw&usqp=CAU" alt="" width="" />
 
+## **GIỚI THIỆU MÔN HỌC**
+
+- Tên môn học: Máy học
+- Mã môn: CS114
+- Mã lớp học: CS114.O21
+- Giảng viên:
+    - Lê Đình Duy duydl@uit.edu.vn
+    - Phạm Nguyễn Trường An truonganpn@uit.edu.vn
+- Năm học: 2024
+
 ## **CS114 - Quá trình học tập**
 > Mình lựa chọn học môn CS114 với suy nghĩ có thể biết những kiến thức mang tính nền tảng và mình tin đây sẽ là cơ sở để mình có thể hiểu và chinh phục được các bộ môn liên quan đến Trí tuệ nhân tạo!
 >
