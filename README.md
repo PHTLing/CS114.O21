@@ -36,4 +36,5 @@
 *-Mình đã biết thêm được gì?*
 >Cảm nghĩ?
 ## **COLAB**
-Đây là folder colab: [TrucLinh's CS114_Colab_File](https://drive.google.com/drive/folders/1E1HKAAzW-l7g0gCQCAneHGmqBJ1V5A_0?usp=sharing).
+## **ĐỒ ÁN**
+uploading...
