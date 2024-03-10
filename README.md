@@ -1,7 +1,9 @@
-# **About me**
-À nhon! Mình là Phạm Hồ Trúc Linh sinh viên ngành Khoa học Máy tính của trường UIT.
+# <p align="center"> **About me**
+<p align="center">À nhon! Mình là Phạm Hồ Trúc Linh sinh viên ngành Khoa học Máy tính của trường UIT.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8l5Se7N7K_Dnq1nzKjj79ZwyOP9nzw9a2V9ePHyYOrLTYChZ2CwV7ucj-W8ZCC-ElZw&usqp=CAU" alt="" width="" />
+<p align="center">
+  <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit.png" />
+</p>
 
 ## **GIỚI THIỆU MÔN HỌC**
 
